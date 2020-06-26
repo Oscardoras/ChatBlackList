@@ -1,8 +1,8 @@
-package org.bungeeplugin.chatblacklist;
+package me.oscardoras.chatblacklist;
 
 import java.util.List;
 
-import org.bungeeutils.io.DataFile;
+import me.oscardoras.bungeeutils.io.DataFile;
 
 public final class BlackList {
 	private BlackList() {}

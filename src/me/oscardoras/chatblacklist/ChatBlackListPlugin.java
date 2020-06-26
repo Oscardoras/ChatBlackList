@@ -1,9 +1,8 @@
-package org.bungeeplugin.chatblacklist;
+package me.oscardoras.chatblacklist;
 
-import org.bungeeutils.BungeePlugin;
-import org.bungeeutils.io.SendMessage;
-import org.bungeeutils.io.TranslatableMessage;
-
+import me.oscardoras.bungeeutils.BungeePlugin;
+import me.oscardoras.bungeeutils.io.SendMessage;
+import me.oscardoras.bungeeutils.io.TranslatableMessage;
 import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.connection.ProxiedPlayer;
 import net.md_5.bungee.api.event.ChatEvent;

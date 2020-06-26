@@ -1,4 +1,4 @@
 name: ChatBlackList
 version: 1.0.0
 author: oscardoras
-main: org.bungeeplugin.chatblacklist.ChatBlackListPlugin
+main: me.oscardoras.chatblacklist.ChatBlackListPlugin
